@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Laurent Bonet Web Site
 ---
 
 This is a LAURENT BONET blank Quartz installation.
