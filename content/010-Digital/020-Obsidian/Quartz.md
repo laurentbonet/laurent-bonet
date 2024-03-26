@@ -1,0 +1,4 @@
+- [Site](https://quartz.jzhao.xyz/)
+- [Discord](https://discord.com/invite/cRFFHYye7t/login)
+- [Github](https://github.com/jackyzha0/quartz)
+- [Youtube Tuto](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=904s)
